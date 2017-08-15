@@ -7,8 +7,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>淘淘网上商城-综合网购首选（JD.COM）-正品低价、品质保障、货到付款、配送及时、放心服务、轻松购物！</title>
-<meta name="description" content="淘淘JD.COM-专业的综合网上购物商城，在线销售家电、数码通讯、电脑、家居百货、服装服饰、母婴、图书、食品、在线旅游等数万个品牌千万种优质商品。便捷、诚信的服务，为您提供愉悦的网上商城购物体验! ">
-<meta name="Keywords" content="网上购物,网上商城,手机,笔记本,电脑,MP3,CD,VCD,DV,相机,数码,配件,手表,存储卡,淘淘商城">
+<meta name="description" content="淘淘JD.COM-专业的综合网上购物商城，在线销售家电、数码通讯、电脑、家居百货、服装服饰、母婴、图书、食品、在线旅游等数万个品牌千万种优质商品。便捷、诚信的服务，为您提供愉悦的网上商城购物体验! "/>
+<meta name="Keywords" content="网上购物,网上商城,手机,笔记本,电脑,MP3,CD,VCD,DV,相机,数码,配件,手表,存储卡,淘淘商城"/>
 <link href="/css/taotao.css" rel="stylesheet"/>
 <script type="text/javascript">
 	window.pageConfig={
@@ -34,7 +34,7 @@
 <div id="o-slide">
 <div class="slide" id="slide">
 <script type="text/javascript">
-;(function(cfg, doc) {
+ (function(cfg, doc) {
     if ( !cfg.DATA_MSlide ) {
         cfg.DATA_MSlide=[];
     }
@@ -55,7 +55,7 @@
             +'</ul><div class="slide-controls"><span class="curr">1</span></div>';
         doc.write(TPL);
     }
-})(pageConfig, document);;</script>
+})(pageConfig, document);</script>
 </div><!--slide end-->
 <div class="jscroll" id="mscroll">
 <div class="ctrl" id="mscroll-ctrl-prev"><b></b></div>
@@ -186,7 +186,7 @@ pageConfig.DATA_MScroll =[
 </script>
 </div>
 <div class="m fr da0x70" clstag="homepage|keycount|home2013|10a">
-<script>
+<script type="text/javascript">
 // 右上方广告位
 (function() {
 	var data = [
